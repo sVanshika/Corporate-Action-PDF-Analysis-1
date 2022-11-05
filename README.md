@@ -7,4 +7,9 @@ A corporate action is an event carried out by a company that materially impacts 
 Common corporate actions include the payment of dividends, stock splits, tender offers, and mergers and acquisitions.
 Corporate actions must often be approved by a company's shareholders and board of directors. 
 
+### Technology Stack
+NER, SpaCy, Python, Numpy
+
+### Detailed description in youtube video: https://www.youtube.com/watch?v=MCZ6ONTzcU4
+
 
